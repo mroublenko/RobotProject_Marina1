@@ -16,7 +16,7 @@ MySecondTest
 MyThirdTest
                       Log                                            Third Marina's test.
 MyFourthTest
-                      Log                                            Fourth Marina's test.
+                      Log                                            Fourth Marina's test2.
 FirstSeleniumTest
                       Open Browser                                   https://google.com                                chrome
                       Set Browser Implicit Wait                      5
