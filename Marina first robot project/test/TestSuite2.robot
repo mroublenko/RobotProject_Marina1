@@ -15,7 +15,7 @@ MySecondTest
                       Log                                            Second Marina's test.
 MyThirdTest
                       Log                                            Third Marina's test.
-MyThirdTest
+MyFourthTest
                       Log                                            Fourth Marina's test.
 FirstSeleniumTest
                       Open Browser                                   https://google.com                                chrome
